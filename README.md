@@ -1,4 +1,4 @@
-## SPROCKET MARKETING ANALYSIS
+## MARKETING ANALYSIS: WHO ARE THE SPROCKET'S CUSTOMERS?
 
 # INTRODUCTION
 I recently completed the KPMG virtual data analytics internship; it was an amazing experience learning from one of the world-class consulting firms. The internship is one of the biggest, free, virtual and educative internship programs that gives real-life experience, testing knowledge of skills such as Consultation, Data Analytics and Data Visualization. 
