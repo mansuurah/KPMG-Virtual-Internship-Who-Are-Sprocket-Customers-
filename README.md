@@ -44,6 +44,8 @@ After taking the necessary steps to ensure the data integrity, the next step bef
 
 # Data Visualization
 I created a dashboard to display my insights and communicate my analysis through visual. 
+<img width="554" alt="My KPMG Virtual Internship Dashboard" src="https://github.com/mansuurah/KPMG-Virtual-Internship-Who-Are-Sprocket-Customers-/assets/136700743/a8542834-1bd0-4502-b25b-341f6b31807f">
+
 # INSIGHTS 
 Sprocket Central customers are spread across 3 states - NSW, QLD, VIC, in Australia. Notably, customers from NSW generated the highest profit, contributing approximately $400,000, and made 37,262 bike-related purchases. Also, among the three states, the chart reveals that NSW has the highest number of customers who own a car (385) as well as the highest number of customers who do not own a car (353). The number of customers that own a car in VIC is slightly higher than those that do not own a car while those of QLD is split quite evenly distributed. However, car ownership distribution in both states is considerably lower than NSW. 
 
